@@ -1,6 +1,6 @@
 {
-    "name": "@tribo-labs/minikit",
-    "version": "1.0.6",
+    "name": "tribolabs-minikit",
+    "version": "1.0.7",
     "description": "The official Tribo Labs MiniKit CLI",
     "main": "dist/index.js",
     "bin": {

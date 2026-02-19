@@ -1,4 +1,4 @@
-# @tribo-labs/minikit
+# tribolabs-minikit
 
 The official **Tribo Labs MiniKit CLI** to bootstrap high-performance Mini Apps.
 
@@ -7,7 +7,7 @@ The official **Tribo Labs MiniKit CLI** to bootstrap high-performance Mini Apps.
 You can start a new project by running:
 
 ```bash
-npx create-tribo-app
+npx tribolabs-minikit
 ```
 
 Or specify a directory:
