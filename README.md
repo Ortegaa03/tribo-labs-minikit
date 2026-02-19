@@ -1,6 +1,6 @@
-# create-tribo-app
+# @tribo-labs/minikit
 
-The official CLI tool to bootstrap **Tribo Ecosystem Mini Apps**.
+The official **Tribo Labs MiniKit CLI** to bootstrap high-performance Mini Apps.
 
 ## Usage
 
