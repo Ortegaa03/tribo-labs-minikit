@@ -1,10 +1,10 @@
 {
-    "name": "@tribo-labs/cli",
-    "version": "1.0.5",
-    "description": "The official Tribo Labs CLI to bootstrap Mini Apps",
+    "name": "create-tribo-app",
+    "version": "1.0.3",
+    "description": "CLI to bootstrap Tribo Ecosystem Mini Apps",
     "main": "dist/index.js",
     "bin": {
-        "tribo": "dist/index.js"
+        "create-tribo-app": "dist/index.js"
     },
     "scripts": {
         "build": "tsup src/index.ts --format cjs --minify --clean",
