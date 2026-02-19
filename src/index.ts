@@ -12,7 +12,7 @@ const program = new Command();
 program
     .name('tribo')
     .description('Official Tribo Labs MiniKit CLI')
-    .version('1.0.6')
+    .version('1.0.7')
     .argument('[directory]', 'directory to create the app in')
     .action(async (directory) => {
         console.log(chalk.bold.green('\n🚀 Welcome to Tribo Labs SDK\n'));

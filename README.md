@@ -1,4 +1,4 @@
-# tribolabs-minikit
+# @tribo-labs/minikit
 
 The official **Tribo Labs MiniKit CLI** to bootstrap high-performance Mini Apps.
 
@@ -13,7 +13,7 @@ npx tribolabs-minikit
 Or specify a directory:
 
 ```bash
-npx create-tribo-app my-new-app
+npx tribolabs-minikit my-new-app
 ```
 
 ## Features
@@ -29,4 +29,4 @@ npx create-tribo-app my-new-app
 
 ---
 
-Built with ❤️ by [Tribo](https://tribovault.co)
+Powered by Tribo Labs 💚
