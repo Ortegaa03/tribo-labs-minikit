@@ -11,8 +11,8 @@ const program = new Command();
 
 program
     .name('tribo')
-    .description('Bootstrap a new Tribo Ecosystem Mini App')
-    .version('1.0.4')
+    .description('Official Tribo Labs MiniKit CLI')
+    .version('1.0.6')
     .argument('[directory]', 'directory to create the app in')
     .action(async (directory) => {
         console.log(chalk.bold.green('\n🚀 Welcome to Tribo Labs SDK\n'));
